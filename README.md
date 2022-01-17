@@ -1,4 +1,4 @@
-# 3CX Linux Eletron webapp
+# 3CX Linux Electron webapp
 
 Electron webapp for 3CX on Linux
 
