@@ -1,0 +1,20 @@
+{
+  "name": "3cx-linux",
+  "windowtitle": "3CX Webclient",
+  "version": "1.0.0",
+  "description": "3CX Web Client for Linux",
+  "main": "main.js",
+  "homepage": "https://github.com/kaipee/3cx-linux-electron",
+  "author": {
+    "name": "Keith Patton",
+    "email": "kaipee@kaipee.co.uk"
+  },
+  "scripts": {
+    "start": "electron ./main.js"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "electron": ">=16.0.0",
+    "electron-builder": "^22.11.9"
+  }
+}
