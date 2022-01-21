@@ -7,7 +7,7 @@ Electron webapp for 3CX on Linux
 Clone this repository
 
 ```sh
-git clone git@github.com:kaipee/3cx-linux-electron.git
+git clone https://github.com/kaipee/3cx-linux-electron.git
 ```
 
 Edit `main.js` and insert your 3CX Webclient address
